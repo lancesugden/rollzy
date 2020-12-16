@@ -38,7 +38,7 @@
 {
 "name": "Victroll",
 "allyCode": "111429958",
-"discordId": "",
+"discordId": "700268109272973343",
 "userIcon": ":green_circle:"
 },
 {
@@ -212,7 +212,7 @@
 {
 "name": "Steffie",
 "allyCode": "649849861",
-"discordId": "",
+"discordId": "475450088634712076",
 "userIcon": ":green_circle:"
 },
 {
@@ -224,7 +224,7 @@
 {
 "name": "Rollzy",
 "allyCode": "465387769",
-"discordId": "",
+"discordId": "123217272163663872",
 "userIcon": ":green_circle:"
 },
 {
@@ -260,7 +260,7 @@
 {
 "name": "NO FLY ZONE",
 "allyCode": "946166224",
-"discordId": "",
+"discordId": "479409841484333084",
 "userIcon": ":green_circle:"
 },
 {
@@ -328,5 +328,11 @@
 "allyCode": "879417165",
 "discordId": "",
 "userIcon": ":green_circle:"
+},
+{
+"name": "Uhla",
+"allyCode": "919658276",
+"discordId": "",
+"userIcon": ":red_circle:"
 },
 ]
